@@ -1,4 +1,4 @@
-# Node ZCore Network (ZCN)
+# ZCore Network (ZCN) Node
 
 ### FIRST Get key HERE:
 https://github.com/mosqueiro/zcore-getkey
