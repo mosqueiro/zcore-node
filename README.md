@@ -3,15 +3,18 @@
 ### FIRST Get key HERE:
 https://github.com/mosqueiro/zcore-getkey
 
-### Download Docker Desktop
+### Install Docker Desktop
 https://www.docker.com/products/docker-desktop/
 
-### Download this repository:
+### Download this repository and extract:
 https://github.com/mosqueiro/zcore-getkey/archive/refs/heads/main.zip
 
 ### Commands
-- Open ```.env``` with text editor and paste your address (from zcore-getkey)
 
-- Paste ```keystore``` content folder from zcore-getkey in ```keystore```
+- Create ```.env``` file with text editor (in the folder where you extracted this repository and paste your address (from zcore-getkey):
+```
+ACCOUNT=YOUR_ADDRESS_HERE
+```
 
-- Copy the folder ```genkey/keystore```
+
+- Paste ```keystore``` content folder from zcore-getkey (2 files) in ```keystore``` here
