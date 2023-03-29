@@ -7,7 +7,7 @@ https://github.com/mosqueiro/zcore-getkey
 https://www.docker.com/products/docker-desktop/
 
 ### Download this repository and extract:
-https://github.com/mosqueiro/zcore-getkey/archive/refs/heads/main.zip
+https://github.com/mosqueiro/zcore-node/archive/refs/heads/main.zip
 
 ### Commands
 
