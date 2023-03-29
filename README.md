@@ -18,4 +18,4 @@ ACCOUNT=YOUR_ADDRESS_HERE
 
 - Paste ```keystore``` content folder from zcore-getkey (2 files) in ```keystore``` here
 
-- Run ```docker-compose up -d``` command in the folder where you extracted this repository
+- Run ```docker compose up -d``` command in the folder where you extracted this repository
